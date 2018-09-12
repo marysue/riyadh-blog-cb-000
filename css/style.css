@@ -88,5 +88,6 @@ a:hover {
 }
 
 pre
-  { display: inline
+  { display: inline;
+    margin: 0;
   }
