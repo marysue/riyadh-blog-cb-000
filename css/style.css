@@ -17,6 +17,8 @@ body {
   margin: 0 auto;
   width: 60%;
   padding-bottom: 40px;
+  dir: "rtl"; /* marys new lines */
+  lang: "ar"; /*marys new lines */
 }
 
 #content {
@@ -84,3 +86,8 @@ a:hover {
     width: 95%;
   }
 }
+
+pre
+  { display: inline;
+    margin: 0;
+  }
